@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT-0
 
 cask "mdns-tui-browser" do
-  version "v1.30.5"
+  version "1.30.5"
   sha256 arm:   "761dd5c188e1ff13c53773d09c877a4a38c324179cac28ce7907369b452ff5e1",
          intel: "0565459c5ef790b7562963e378282f13e077e4c8c2071baaca612b73f9d7b516"
 
