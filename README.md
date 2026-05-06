@@ -11,6 +11,18 @@ brew tap hrzlgnm/tap
 
 ## Available Casks
 
+### mdns-tui-browser
+Terminal UI for mDNS service discovery.
+
+```bash
+brew install --cask mdns-tui-browser
+```
+
+Or install directly without tapping:
+```bash
+brew install --cask hrzlgnm/tap/mdns-tui-browser
+```
+
 ### mdns-browser
 Browse mDNS services on your network.
 
