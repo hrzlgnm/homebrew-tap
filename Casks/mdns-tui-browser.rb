@@ -11,5 +11,6 @@ cask "mdns-tui-browser" do
   desc "Terminal UI for mDNS service discovery"
   homepage "https://github.com/hrzlgnm/mdns-tui-browser"
 
-  binary "mdns-tui-browser"
+  app "mDNS-TUI-Browser.app"
+  binary "#{appdir}/mDNS-TUI-Browser.app/Contents/MacOS/mdns-tui-browser", target: "mdns-tui-browser"
 end
