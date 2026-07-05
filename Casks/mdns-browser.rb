@@ -2,8 +2,8 @@
 # SPDX-License-Identifier: MIT-0
 
 cask "mdns-browser" do
-  version "1.9.11"
-  sha256 "d7dd2450d76570d362f47171663f94d57ccb95228024632bc0b4d1203f782019"
+  version "1.9.15"
+  sha256 "304f6d7404abe86152f5d6b2d4a1b5ba818bb633f9634af51df2cb64c5edbdeb"
 
   url "https://github.com/hrzlgnm/mdns-browser/releases/download/mdns-browser-v#{version}/mdns-browser_#{version}_universal.dmg"
   name "mDNS Browser"
