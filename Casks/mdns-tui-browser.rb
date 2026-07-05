@@ -2,11 +2,11 @@
 # SPDX-License-Identifier: MIT-0
 
 cask "mdns-tui-browser" do
-  version "1.30.10"
+  version "1.30.11"
   arch arm: "aarch64", intel: "x86_64"
 
-  sha256 arm:   "3f890393770260985c92b9280e9bd4460d477e5cd157698071ac81846cf5b802",
-         intel: "ccc694146c62f616bb05471537c94e04e879ab84f425c2fa72cd44adbf639ce7"
+  sha256 arm:   "a49b50148ee0d20c4286f1636a71e1129d8af6df9be8a5e5c1f81772d14e9ce0",
+         intel: "0cc63bfcf84c589d5ccfc09cd86170ae1c162cf69df2fe49798feee0739ba6ce"
 
   url "https://github.com/hrzlgnm/mdns-tui-browser/releases/download/v#{version}/mdns-tui-browser-v#{version}-macOS-#{arch}.dmg"
   name "mdns-tui-browser"
