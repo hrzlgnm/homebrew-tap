@@ -35,6 +35,18 @@ Or install directly without tapping:
 brew install --cask hrzlgnm/tap/mdns-browser
 ```
 
+### zux
+mDNS-SD visualizer with force-directed graph visualization.
+
+```bash
+brew install --cask zux
+```
+
+Or install directly without tapping:
+```bash
+brew install --cask hrzlgnm/tap/zux
+```
+
 ## License
 
 MIT No Attribution (MIT-0) - See [LICENSE](LICENSE) file.
