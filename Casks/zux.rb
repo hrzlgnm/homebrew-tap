@@ -2,8 +2,8 @@
 # SPDX-License-Identifier: MIT-0
 
 cask "zux" do
-  version "0.8.0"
-  sha256 "99a96c4b634b538c69befd87dac16dc44080d77493b8ae10ff4c3ff8d5818246"
+  version "0.8.1"
+  sha256 "c1a4c1d90d1ee147b3d7babf535f447c74c9b7c5dfe7d682ebaf635850142796"
 
   url "https://github.com/hrzlgnm/zux-homebrew/releases/download/v#{version}/zux_#{version}_universal.dmg"
   name "zux"
