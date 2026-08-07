@@ -5,7 +5,7 @@ cask "zux" do
   version "1.0.2"
   sha256 "742a8fade8d5f8db72c56e0297b44b5a839be581408872b73171d4616da04f7f"
 
-  url "https://github.com/hrzlgnm/zux-homebrew/releases/download/v#{version}/zux_#{version}_universal.dmg"
+  url "https://github.com/hrzlgnm/zux/releases/download/v#{version}/zux_#{version}_universal.dmg"
   name "zux"
   desc "mDNS-SD visualizer with force-directed graph visualization"
   homepage "https://github.com/hrzlgnm/zux"
