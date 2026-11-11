@@ -47,6 +47,18 @@ Or install directly without tapping:
 brew install --cask hrzlgnm/tap/zux
 ```
 
+### mex
+Terminal UI to browse and debug mDNS/DNS-SD.
+
+```bash
+brew install --cask mex
+```
+
+Or install directly without tapping:
+```bash
+brew install --cask hrzlgnm/tap/mex
+```
+
 ## License
 
 MIT No Attribution (MIT-0) - See [LICENSE](LICENSE) file.
