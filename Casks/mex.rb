@@ -2,11 +2,11 @@
 # SPDX-License-Identifier: MIT-0
 
 cask "mex" do
-  version "0.18.1"
+  version "0.18.2"
   arch arm: "aarch64", intel: "x86_64"
 
-  sha256 arm:   "141ab889a2ef4a39a30489f336a93fa355240401f1be7f8ee32853f9b4e48187",
-         intel: "46c444f75c959fb5c63a4a6fa9b4329c195877f43b8e46967dbda353fa93cd5b"
+  sha256 arm:   "61b520161b3ca571d327866ef3131dfe416125a75e2d8aa57929ce11737ed381",
+         intel: "f66c8aed32e89e5722ce1e9a32636db9a95394d4b21177e9dfd94b3e1a69ea34"
 
   url "https://github.com/hrzlgnm/mex/releases/download/v#{version}/mex-v#{version}-macOS-#{arch}.dmg"
   name "mex"
